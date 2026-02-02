@@ -149,7 +149,6 @@ NAT Gateway incurs cost — use carefully in non-production environments.
 
 Number of public subnets, private subnets, and AZs must match.
 
-👨‍💻 Author
+## Author
 
-Managed and maintained using Terraform
-Project: otel
+Gowtham S / DevOps Engineer
